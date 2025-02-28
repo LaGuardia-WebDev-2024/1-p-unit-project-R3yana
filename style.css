@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
+
+body {
+  background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_52683-63441.jpg");
+  text-align: center;
+  margin: auto;
+   font-family: "Poetsen One", serif;
+}
+
+h1{
+  font-size: 30px;
+  color: white;
+}
+h2{ 
+color:white;
+}
+h3{
+  color:white;
+}
+h4{
+color:white
+}
+
+#myCanvas {
+  background-size: 600px 400px;
+  border-radius: 30px;
+  border: 5px solid white;
+}
+
+
+
